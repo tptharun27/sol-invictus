@@ -1,12 +1,10 @@
+build/
+**/build/
+.gradle/
 *.iml
-.gradle
-/local.properties
-/.idea
+.idea/
+local.properties
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
 *.apk
 !SolInvictus.apk
 !SolInvictus-v1.0.apk
