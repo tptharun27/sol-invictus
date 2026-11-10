@@ -93,14 +93,14 @@
   - Acceptance criteria:
     - `./gradlew assembleDebug` / `assembleRelease` produces valid APK file.
     - Copy final APK to root folder as `SolInvictus.apk`.
-- [ ] Task 17: Documentation & Licensing
+- [x] Task 17: Documentation & Licensing
   - Acceptance criteria:
     - MIT Open Source LICENSE file with copyright.
     - README.md with comprehensive documentation, features, screenshots/diagrams, and install guide.
-- [ ] Task 18: GitHub Repository Creation & Push
+- [x] Task 18: GitHub Repository Creation & Push
   - Acceptance criteria:
     - Git initialized, commits made.
     - GitHub repository created and pushed to `tptharun27/sol-invictus`.
 
 ## Checkpoint 5: Project Delivery
-- [ ] APK verified, GitHub repo live, all acceptance criteria satisfied.
+- [x] APK verified, GitHub repo live, all acceptance criteria satisfied.
